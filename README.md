@@ -1,5 +1,5 @@
 # ENTREGA FINAL - TOBIAS FLICK 
- # Antes que nada, quiero aclarar que realicé este trabajo sin tutor para preguntar. Mi tutor salió del grupo y no se le notaba con ganas de responder consultas así que traté de hacerlo sin ayuda.
+ 
 
 
 El superuser creado es: 
